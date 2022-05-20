@@ -10,8 +10,10 @@
 
 ## 进阶方法
 
-Manachar算法
+Manachar算法用f[i]表示以i为中点最长可以扩展多长，利用回文性质如果有p使得p+f[p]能覆盖尽量右的部分，那么f[i]最小值为min(f[p*2-i],p+f[p]-i)，我们只要从这个值开始扩展即可。我们可以在字符中间插入特殊字符来同时处理奇数和偶数长度的回文串。时间复杂度为O(n)，空间复杂度为O(n)，其中n为s的长度。
 
 ## 源代码
 
-[源代码](../src/5-longest-palindromic-substring.cpp)
+[普通方法](../src/5-longest-palindromic-substring.cpp)
+
+[进阶方法](../src/5-longest-palindromic-substring-follow-up.cpp)
