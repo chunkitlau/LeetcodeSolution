@@ -19,3 +19,7 @@
 [15. 三数之和](./15-3sum.md)
 
 [17. 电话号码的字母组合](./17-letter-combinations-of-a-phone-number.md)
+
+[19. 删除链表的倒数第 N 个结点](./19-remove-nth-node-from-end-of-list.md)
+
+[20. 有效的括号](./20-valid-parentheses.md)
