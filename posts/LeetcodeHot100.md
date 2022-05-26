@@ -25,3 +25,7 @@
 [20. 有效的括号](./20-valid-parentheses.md)
 
 [21. 合并两个有序链表](../src/21-merge-two-sorted-lists.cpp)
+
+[22. 括号生成](../src/22-generate-parentheses.cpp)
+
+[23. 合并K个升序链表](../src/23-merge-k-sorted-lists.cpp)
