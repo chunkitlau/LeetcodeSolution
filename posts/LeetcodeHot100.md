@@ -31,3 +31,5 @@
 [23. 合并K个升序链表](../src/23-merge-k-sorted-lists.cpp)
 
 [31. 下一个排列](../src/31-next-permutation.cpp)
+
+[32. 最长有效括号](../src/32-longest-valid-parentheses.cpp)
