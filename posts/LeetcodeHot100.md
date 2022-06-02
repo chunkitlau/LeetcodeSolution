@@ -33,3 +33,7 @@
 [31. 下一个排列](../src/31-next-permutation.cpp)
 
 [32. 最长有效括号](../src/32-longest-valid-parentheses.cpp)
+
+[33. 搜索旋转排序数组](../src/33-search-in-rotated-sorted-array.cpp)
+
+[34. 在排序数组中查找元素的第一个和最后一个位置](../src/34-find-first-and-last-position-of-element-in-sorted-array.cpp)
