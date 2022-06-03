@@ -41,3 +41,5 @@
 [39. 组合总和](../src/39-combination-sum.cpp)
 
 [42. 接雨水](../src/42-trapping-rain-water.cpp)
+
+[46. 全排列](../src/46-permutations.cpp)
