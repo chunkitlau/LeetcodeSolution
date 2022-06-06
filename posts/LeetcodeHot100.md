@@ -43,3 +43,5 @@
 [42. 接雨水](../src/42-trapping-rain-water.cpp)
 
 [46. 全排列](../src/46-permutations.cpp)
+
+[48. 旋转图像](../src/48-rotate-image.cpp)
