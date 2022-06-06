@@ -45,3 +45,5 @@
 [46. 全排列](../src/46-permutations.cpp)
 
 [48. 旋转图像](../src/48-rotate-image.cpp)
+
+[53. 最大子数组和](../src/53-maximum-subarray.cpp)
