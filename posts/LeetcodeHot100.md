@@ -49,3 +49,5 @@
 [49. 字母异位词分组](../src/49-group-anagrams.cpp)
 
 [53. 最大子数组和](../src/53-maximum-subarray.cpp)
+
+[55. 跳跃游戏](../src/55-jump-game.cpp)
