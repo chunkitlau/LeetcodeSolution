@@ -51,3 +51,5 @@
 [53. 最大子数组和](../src/53-maximum-subarray.cpp)
 
 [55. 跳跃游戏](../src/55-jump-game.cpp)
+
+[56. 合并区间](../src/56-merge-intervals.cpp)
