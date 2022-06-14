@@ -59,3 +59,5 @@
 [64. 最小路径和](../src/64-minimum-path-sum.cpp)
 
 [70. 爬楼梯](../src/70-climbing-stairs.cpp)
+
+[72. 编辑距离](../src/72-edit-distance.cpp)
