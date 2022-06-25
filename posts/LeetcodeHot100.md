@@ -67,3 +67,5 @@
 [78. 最小覆盖子串](../src/78-subsets.cpp)
 
 [79. 单词搜索](../src/79-word-search.cpp)
+
+[84. 柱状图中最大的矩形](../src/84-largest-rectangle-in-histogram.cpp)
