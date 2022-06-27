@@ -71,3 +71,5 @@
 [84. 柱状图中最大的矩形](../src/84-largest-rectangle-in-histogram.cpp)
 
 [85. 最大矩形](../src/85-maximal-rectangle.cpp)
+
+[96. 不同的二叉搜索树](../src/96-unique-binary-search-trees.cpp)
