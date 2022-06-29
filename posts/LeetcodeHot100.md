@@ -73,3 +73,5 @@
 [85. 最大矩形](../src/85-maximal-rectangle.cpp)
 
 [96. 不同的二叉搜索树](../src/96-unique-binary-search-trees.cpp)
+
+[98. 验证二叉搜索树](../src/98-validate-binary-search-tree.cpp)
