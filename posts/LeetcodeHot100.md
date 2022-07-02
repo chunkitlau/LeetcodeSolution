@@ -79,3 +79,5 @@
 [101. 对称二叉树](../src/101-symmetric-tree.cpp)
 
 [102. 二叉树的层序遍历](../src/102-binary-tree-level-order-traversal.cpp)
+
+[104. 二叉树的最大深度](../src/104-maximum-depth-of-binary-tree.cpp)
